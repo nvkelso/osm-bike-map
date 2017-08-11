@@ -1,7 +1,7 @@
 # osm-bike-map
 What big and small cities have bike maps &amp;/or bike friendly community but needs some OpenStreetMap cycleway love
 
-_Really this is a repo of Github Issues.)
+_Really this is a repo of Github Issues._
 
 ## Resources
 
